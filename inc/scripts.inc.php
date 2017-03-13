@@ -1,5 +1,4 @@
-<!-- JQUERY javascript library -->
-<script src="js/jquery-2.1.0.js"></script>
 
-<!-- all custom scripts in base.js -->
-<script src="js/base.js"></script>
+<!-- SCRIPTS -->
+<script src="compiled-scripts/vendors.min.js"></script>
+<script src="compiled-scripts/bundle.js"></script>

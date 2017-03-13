@@ -9,8 +9,7 @@
         <?php include('inc/header.inc.php'); ?>
         
         <div id="page">
-
-
+            <a href="#content">lien</a>
 
         </div><!-- #page -->
         

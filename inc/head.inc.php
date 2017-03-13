@@ -1,5 +1,7 @@
 <meta charset="utf-8">
-<link rel="stylesheet" href="css/all.css" type="text/css">
+
+<!-- STYLES -->
+<link href='compiled-styles/all.css' rel='stylesheet'/>
 
 <title> | My project title</title>
 <script>
